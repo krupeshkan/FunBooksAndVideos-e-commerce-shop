@@ -1,0 +1,9 @@
+D:\FunBooksAndVideos\FunBooksAndVideos\FunBooksAndVideos.BusinessLogic\bin\Debug\FunBooksAndVideos.BusinessLogic.dll
+D:\FunBooksAndVideos\FunBooksAndVideos\FunBooksAndVideos.BusinessLogic\bin\Debug\FunBooksAndVideos.BusinessLogic.pdb
+D:\FunBooksAndVideos\FunBooksAndVideos\FunBooksAndVideos.BusinessLogic\bin\Debug\FunBooksAndVideos.Model.dll
+D:\FunBooksAndVideos\FunBooksAndVideos\FunBooksAndVideos.BusinessLogic\bin\Debug\FunBooksAndVideos.Model.pdb
+D:\FunBooksAndVideos\FunBooksAndVideos\FunBooksAndVideos.BusinessLogic\obj\Debug\FunBooksAndVideos.BusinessLogic.csprojResolveAssemblyReference.cache
+D:\FunBooksAndVideos\FunBooksAndVideos\FunBooksAndVideos.BusinessLogic\obj\Debug\FunBooksAndVideos.BusinessLogic.dll
+D:\FunBooksAndVideos\FunBooksAndVideos\FunBooksAndVideos.BusinessLogic\obj\Debug\FunBooksAndVideos.BusinessLogic.pdb
+D:\FunBooksAndVideos\FunBooksAndVideos\FunBooksAndVideos.BusinessLogic\bin\Debug\FunBooksAndVideos.Repository.dll
+D:\FunBooksAndVideos\FunBooksAndVideos\FunBooksAndVideos.BusinessLogic\bin\Debug\FunBooksAndVideos.Repository.pdb
