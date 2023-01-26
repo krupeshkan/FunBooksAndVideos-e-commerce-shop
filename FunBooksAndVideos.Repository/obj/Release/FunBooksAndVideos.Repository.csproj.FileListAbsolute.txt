@@ -1,0 +1,9 @@
+C:\Project Data\Qnox\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.Repository\bin\Release\FunBooksAndVideos.Repository.dll
+C:\Project Data\Qnox\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.Repository\bin\Release\FunBooksAndVideos.Repository.pdb
+C:\Project Data\Qnox\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.Repository\bin\Release\FunBooksAndVideos.Model.dll
+C:\Project Data\Qnox\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.Repository\bin\Release\FunBooksAndVideos.Model.pdb
+C:\Project Data\Qnox\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.Repository\obj\Release\FunBooksAndVideos.Repository.csproj.AssemblyReference.cache
+C:\Project Data\Qnox\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.Repository\obj\Release\FunBooksAndVideos.Repository.csproj.CoreCompileInputs.cache
+C:\Project Data\Qnox\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.Repository\obj\Release\FunBooksAndVideos.Repository.csproj.CopyComplete
+C:\Project Data\Qnox\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.Repository\obj\Release\FunBooksAndVideos.Repository.dll
+C:\Project Data\Qnox\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.Repository\obj\Release\FunBooksAndVideos.Repository.pdb

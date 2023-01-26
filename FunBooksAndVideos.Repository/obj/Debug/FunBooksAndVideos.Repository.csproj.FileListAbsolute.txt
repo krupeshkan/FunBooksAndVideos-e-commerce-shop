@@ -1,0 +1,7 @@
+D:\FunBooksAndVideos\FunBooksAndVideos\FunBooksAndVideos.Repository\bin\Debug\FunBooksAndVideos.Repository.dll
+D:\FunBooksAndVideos\FunBooksAndVideos\FunBooksAndVideos.Repository\bin\Debug\FunBooksAndVideos.Repository.pdb
+D:\FunBooksAndVideos\FunBooksAndVideos\FunBooksAndVideos.Repository\bin\Debug\FunBooksAndVideos.Model.dll
+D:\FunBooksAndVideos\FunBooksAndVideos\FunBooksAndVideos.Repository\bin\Debug\FunBooksAndVideos.Model.pdb
+D:\FunBooksAndVideos\FunBooksAndVideos\FunBooksAndVideos.Repository\obj\Debug\FunBooksAndVideos.Repository.csprojResolveAssemblyReference.cache
+D:\FunBooksAndVideos\FunBooksAndVideos\FunBooksAndVideos.Repository\obj\Debug\FunBooksAndVideos.Repository.dll
+D:\FunBooksAndVideos\FunBooksAndVideos\FunBooksAndVideos.Repository\obj\Debug\FunBooksAndVideos.Repository.pdb
